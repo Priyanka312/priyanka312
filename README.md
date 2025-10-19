@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I am ✨Priyanka Silveri✨, a recent graduate with a Master’s in Computer Engineering(Machine Learning). During my studies, I gained hands-on experience in building predictive models, implementing data pipelines, and applying advanced analytics to solve real-world problems. Through real time experiences, internships and projects, I have worked on optimizing data workflows, performing feature engineering, and creating interactive visualizations that drive business insights. I am passionate about leveraging data to uncover patterns, guide decisions, and deliver tangible impact. I am proficient in Python, SQL, and R, and constantly exploring emerging trends in machine learning, AI, and big data technologies. Let’s connect and dive into the world of data together!
+I am ✨Priyanka Silveri✨, a recent graduate with a Master’s in Computer Engineering (Machine Learning). During my studies, I gained hands-on experience in building predictive models, implementing data pipelines, and applying advanced analytics to solve real-world problems. Through real time experiences, internships and projects, I have worked on optimizing data workflows, performing feature engineering, and creating interactive visualizations that drive business insights. I am passionate about leveraging data to uncover patterns, guide decisions, and deliver tangible impact. I am proficient in Python, SQL, and constantly exploring emerging trends in machine learning, AI, and big data technologies. Let’s connect and dive into the world of data together!
 
 ## 🔭 My Interests
 
