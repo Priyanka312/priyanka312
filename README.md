@@ -20,7 +20,7 @@ I am ✨Priyanka Silveri✨, a recent graduate with a Master’s in Computer Eng
 
 ## 🛠 Skills
 
-Programming & Tools: Python, SQL, R, Git, Excel
+Programming & Tools: Python, SQL, Git, Excel
 
 Data Visualization & BI: Tableau, Power BI, Matplotlib, Seaborn
 
