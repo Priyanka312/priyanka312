@@ -1,4 +1,4 @@
-### <h1 align="left" style="font-size: 36px;">Hi!  👋 My name is Priyanka </h1><div align = 'right'>![](https://komarev.com/ghpvc/?username=priyanka312&color=yellow)</div>
+### <h1 align="left" style="font-size: 36px;">Hi!  👋 My name is Priyanka Silveri </h1><div align = 'right'>![](https://komarev.com/ghpvc/?username=priyanka312&color=yellow)</div>
 
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
